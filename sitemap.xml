@@ -3,11 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>purple-flare.github.io/blog/</loc>
+    <loc>purple-flare.github.io/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>purple-flare.github.io/</loc>
+    <loc>purple-flare.github.io/blog/</loc>
   </url>
   
   <url>
