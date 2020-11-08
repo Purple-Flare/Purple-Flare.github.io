@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://purple-flare.github.io/sitemap.xml
