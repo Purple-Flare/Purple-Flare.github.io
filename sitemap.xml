@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://getflareapp.com/posts/slack/</loc>
+    <loc>https://getflareapp.com/posts/slack-guide/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
@@ -14,17 +14,17 @@
   </url>
   
   <url>
-    <loc>https://getflareapp.com/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://getflareapp.com/posts/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://getflareapp.com/tags/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://getflareapp.com/tags/tutorial/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   

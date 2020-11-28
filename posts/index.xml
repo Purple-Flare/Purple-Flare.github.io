@@ -7,12 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://getflareapp.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Flarebot - Soft Launch</title>
-      <link>https://getflareapp.com/posts/slack/</link>
+      <title>Slack Flarebot - How does it work?</title>
+      <link>https://getflareapp.com/posts/slack-guide/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://getflareapp.com/posts/slack/</guid>
-      <description>Hello</description>
+      <guid>https://getflareapp.com/posts/slack-guide/</guid>
+      <description>What is it? Flarebot is a bot for slack that will passively monitor your channels for any malicious links.
+Getting Started To use Flarebot, you must first install the bot onto your slack workspace with this link. Once you&amp;rsquo;ve installed the bot onto your workspace, you will have to add the bot to a channel you want to monitor.
+The fastest way to add a bot to a channel is to do the /add command.</description>
     </item>
     
   </channel>
