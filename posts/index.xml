@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://getflareapp.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Flare - What is it?</title>
+      <link>https://getflareapp.com/posts/about/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://getflareapp.com/posts/about/</guid>
+      <description>Why Flare? With the dramatic increase in remote working and digital teams because of Covid-19 we are anticipating a surge in cyber threats throughout the world, specifically targeting . We wanted to create a solution to build a safer chat environment for any type of user.
+How does it work? Flare monitors channels and chat rooms from the background while only scanning messages that contain a URL. We compare the URL with security databases that are regularly updated and find any possible threat associated with it to let users know.</description>
+    </item>
+    
+    <item>
       <title>Slack Flarebot - How does it work?</title>
       <link>https://getflareapp.com/posts/slack-guide/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
